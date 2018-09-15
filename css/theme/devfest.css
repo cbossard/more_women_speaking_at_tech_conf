@@ -11,7 +11,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 body {
- background:url("../../images/devfest.jpg"); 
+ background:url("../../images/devfest.jpg");
 }
 
 .reveal {
@@ -46,7 +46,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #923a22;
-  font-family: "Confortaa", Helvetica, sans-serif;
+  font-family: "Comfortaa", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
@@ -58,16 +58,22 @@ body {
   font-size: 2.5em; }
 
 .reveal h2 {
-  font-size: 1.6em; }
+  font-size: 1.6em;
+  font-weight: bold}
 
 .reveal h3 {
   font-size: 1.3em; }
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 1em;
+  color: #4d413e}
 
 .reveal h1 {
   text-shadow: none; }
+
+  .reveal li {
+    color: #4d413e;
+  }
 
 /*********************************************
  * OTHER
