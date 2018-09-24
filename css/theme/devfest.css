@@ -11,7 +11,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 body {
- background:url("../../images/devfest.jpg");
+ background:url("../../images/devfest_faded.jpg");
 }
 
 .reveal {
@@ -71,9 +71,9 @@ body {
 .reveal h1 {
   text-shadow: none; }
 
-  .reveal li {
-    color: #4d413e;
-  }
+.reveal li {
+  color:  #AE5A2B;
+}
 
 /*********************************************
  * OTHER
