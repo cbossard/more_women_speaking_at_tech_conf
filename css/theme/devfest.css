@@ -11,7 +11,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 body {
- background:url("../../images/devfest_faded.jpg");
+
 }
 
 .reveal {
@@ -75,6 +75,10 @@ body {
   color:  #AE5A2B;
 }
 
+.reveal dd {
+  font-size: xx-large;
+}
+
 /*********************************************
  * OTHER
  *********************************************/
@@ -125,8 +129,7 @@ body {
 .reveal dt {
   font-weight: bold; }
 
-.reveal dd {
-  margin-left: 40px; }
+
 
 .reveal blockquote {
   display: block;
