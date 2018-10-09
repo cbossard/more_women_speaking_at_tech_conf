@@ -11,14 +11,18 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 body {
- background:url("../../images/devfest_faded.jpg");
+
+}
+
+html,#container{
+    background-image: "./images/devfest_simple.jpg"
 }
 
 .reveal {
   font-family: "Confortaa", Helvetica, sans-serif;
   font-size: 42px;
   font-weight: normal;
-  color: #923a22; }
+  color:#f2edc5  }
 
 ::selection {
   color: #fff;
@@ -38,6 +42,7 @@ body {
 /*********************************************
  * HEADERS
  *********************************************/
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -45,7 +50,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #923a22;
+  color: #3A65C0;
   font-family: "Comfortaa", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
@@ -55,14 +60,17 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 2.5em;
+  color: #fff}
 
 .reveal h2 {
   font-size: 1.6em;
-  font-weight: bold}
+  font-weight: bold;
+  color: #233D74}
 
 .reveal h3 {
-  font-size: 1.3em; }
+  font-size: 1.3em;
+  color: #233D74; }
 
 .reveal h4 {
   font-size: 1em;
@@ -71,8 +79,10 @@ body {
 .reveal h1 {
   text-shadow: none; }
 
-.reveal li {
-  color:  #AE5A2B;
+
+
+.reveal dd {
+  font-size: xx-large;
 }
 
 /*********************************************
@@ -125,8 +135,7 @@ body {
 .reveal dt {
   font-weight: bold; }
 
-.reveal dd {
-  margin-left: 40px; }
+
 
 .reveal blockquote {
   display: block;
@@ -215,11 +224,13 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #2a76dd;
+  color: #1f4274;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
-  transition: color .15s ease; }
+  transition: color .15s ease;
+  font-size: x-large;
+}
 
 .reveal a:hover {
   color: #6ca0e8;
