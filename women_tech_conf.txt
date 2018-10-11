@@ -55,6 +55,10 @@ Forum PHP / PHP Tour, Solutions Linux, Blend Web Mix, MiXiT, Paris Web, ...
 
 == Etat des lieux
 
+=== !
+
+image:waldo2.jpg[canvas,size=cover]
+
 == Les conférences tech sont-elles accueillantes pour les femmes ?
 
 === !
