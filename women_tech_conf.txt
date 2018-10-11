@@ -1,0 +1,202 @@
+= Où sont les femmes ?
+:backend:   revealjs
+:max-width: 45em
+:data-uri:
+:customcss:
+:icons: font
+:transition: fade
+:revealjs_history: true
+:imagesdir: images
+:notitle:
+
+== Où sont les femmes ?
+
+image::devfest.jpg[canvas,size=cover]
+
+Cécilia Bossard - @ceciliaBossard
+
+Sarah Haïm-Lubczanski - @sarahhaim
+
+image:duchessfr.png[DuchessFrance,100]
+
+== Cadre de cette session
+=== Table ronde
+Chacun est libre d'intervenir en respectant le cadre suivant :
+
+Bienveillance::
+  Partir du principe que chacun cherche à contribuer positivement
+Avancement::
+  Éviter de tourner en rond, on n’argumente pas à deux
+Individualité::
+  Chacun est différent, peut avoir des choix propres, un avis différent
+Tour de table::
+  Chacun peut s’exprimer, laissons leur la parole
+
+=== Prime Directive
+[quote, Norman Kerth]
+___________________________________________
+Peu importe ce que l’on découvre, nous devons comprendre et vraiment croire que chacun a fait le meilleur travail qu’il ou elle a pu
+selon ce qui était connu à ce moment, ses aptitudes et capacités, les ressources disponibles et le contexte du moment.
+___________________________________________
+
+== Qui sommes-nous ?
+
+Sarah::
+  Ex-dev, actuellement Documentarian -
+  Organisatrice, et oratrice parfois
+Cécilia::
+  Développeuse, petit lutin du logiciel libre -
+  Participante et speakeuse à quelques confs
+
+== Quelles conférences avons-nous "testées" ?
+DevFest Nantes, BreizhCamp, DevoxxFr, Agile Tour Nantes et Rennes, Agile France, JUG Summer Camp,
+New Crafts Paris et Bordeaux, Women Techmakers Nantes, JUG Nantes / GDG Nantes / Agile Nantes / Software Crafters Nantes / Human Talks,
+Forum PHP / PHP Tour, Solutions Linux, Blend Web Mix, MiXiT, Paris Web, ...
+
+== Etat des lieux
+
+== Les conférences tech sont-elles accueillantes pour les femmes ?
+
+=== !
+/* Petite mise en scène */
+
+=== Qu'avons-nous observé ?
+
+"Ah bon ? Cette conférence existe ?"
+
+"N'y a-t-il que des hommes ?"
+
+"Cela ne s'adresse qu'aux hommes"
+
+"Est-ce que je vais m'y sentir bien ?"
+
+=== Avez-vous des solutions ? Des idées ?
+
+=== Ce à quoi nous avions pensé
+
+=== Non connaissance des conférences
+Peer-network communication
+
+Les hommes attirent d'autres hommes (effet club)
+
+=== N'y a-t-il que des hommes ?
+Sur les photos
+
+=== Cela ne s'adresse qu'aux hommes
+Communication non-inclusive (textes)
+
+=== Est-ce que je vais m'y sentir bien ?
+Y aller,
+
+être (presque) la seule femme,
+
+trouver de l'aide
+
+== Syndrôme de l'imposteur
+
+=== !
+/* Petite mise en scène */
+
+=== Qu'avons-nous observé ?
+"Je n'ai rien à dire"
+
+"Je ne suis pas une experte"
+
+"Mais je n'ai jamais parlé en public !"
+
+"Ils ne vont accepter ma conférence que parce que je suis une femme..."
+
+=== Avez-vous des solutions ? Des idées ?
+
+=== Ce à quoi nous avions pensé
+
+=== Trouver un sujet
+Lister les types de sujets que vous aimeriez voir abordés
+
+Soyez clairs sur le public attendu (business, managers, devs, ...)
+
+Accepter les talks de niveau débutant ("Introduction à...") ou les retours d'expérience
+
+=== "Tokenism"
+Ne parlez pas de vos oratrices en les stigmatisant comme étant des femmes
+
+Sélection des talks anonymisée
+
+[NOTE.speaker]
+--
+	InspireFest : 63% de femmes https://inspirefest.com/#about et chiffres publiés
+--
+
+=== Oser parler en public
+Coaching de la part de speakers plus expérimentés
+
+Coaching de la part de professionnels de la prise de parole
+
+Répétitions
+
+Binômage
+
+== Problèmes pratiques et logistiques
+
+=== !
+/* Petite mise en scène */
+
+=== Qu'avons-nous observé ?
+"Je n'ai personne pour garder mes enfants"
+
+"Je n'ai pas les moyens financiers"
+
+=== Avez-vous des solutions ? Des idées ?
+
+=== Ce à quoi nous avions pensé
+
+=== Garde d'enfant
+Proposer un service de garde d'enfants
+
+Inviter la famille
+
+Pour les jeunes mères : fournir un endroit calme pour allaiter
+
+=== Problèmes financiers
+Proposer un remboursement des frais
+
+Prenez en charge la réservation du trajet et de l'hôtel
+
+== Quelques liens pour approfondir le sujet
+
+== !
+Sur l'organisation de conférences :
+
+https://github.com/kitze/awesome-conference-practices[Github : kitze/awesome-conference-practices]
+
+Sur la présence des femmes dans les confs techniques
+
+https://medium.com/women-talk-design/7-reasons-women-speakers-say-no-45023b43fdaf[7 Reasons Why Women Speakers Say No to Speaking (& What Conference Organizers Can Do About It) ]
+
+https://gojanego.co/5-reasons-why-women-arent-applying-to-speak-at-your-conference/[5 Reasons Why Women Aren’t Applying to Speak at Your Conference]
+
+https://www.shegeeksout.com/category/blog/[She geeks out]
+
+Aider la diversité dans les conférences
+
+https://diversitytickets.org/[Diversity Tickets]
+
+== !
+Où trouver de potentielles speakeuses :
+
+https://airtable.com/shrhKvKMEnxVJAPw1/tblfomVkRxAWhKxqz[CFP Women]
+
+http://geekfeminism.wikia.com/wiki/List_of_women_keynote_presenters_at_technical_conferences[Geekfeminism : List of women keynote presenters at technical conferences]
+
+Les communautés techniques :
+
+https://www.duchess-france.org/[Duchess France]
+
+== Pourquoi y a-t-il tant d'hommes ?
+image::devfest.jpg[canvas,size=cover]
+
+Cécilia Bossard - @ceciliaBossard
+
+Sarah Haïm-Lubczanski - @sarahhaim
+
+image:duchessfr.png[DuchessFrance,100]
