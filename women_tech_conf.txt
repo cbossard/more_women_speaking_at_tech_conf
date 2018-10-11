@@ -55,9 +55,37 @@ Forum PHP / PHP Tour, Solutions Linux, Blend Web Mix, MiXiT, Paris Web, ...
 
 == Etat des lieux
 
-=== !
+=== Impression générale
 
 image:waldo2.jpg[canvas,size=cover]
+
+=== Quelques statistiques
+
+Nombre de femmes speakeuses au DevFest Nantes depuis 2012
+
+image:proportions_devfest.png[Proportions hommes/femmes speaker DevFest]
+
+
+[NOTE.speaker]
+--
+Si on regarde d'autres conférences dans l'ouest, les proportions sont plus de l'ordre de 6% tous les ans.
+A SunnyTech (Montpellier), cette année, c'est autour de 9%.
+Idem à DevoxxFr cette année (9%)
+--
+
+=== Et les participantes ?
+
+Proportion de participantes = proportion de speakeuses ?
+
+[NOTE.speaker]
+--
+Très difficile d'obtenir des statistiques...
+SunnyTech 2018 : 14.5% de participantes
+--
+
+== Et les organisatrices ?
+
+Plus d'organisatrices = plus d'oratrices ?
 
 == Les conférences tech sont-elles accueillantes pour les femmes ?
 
