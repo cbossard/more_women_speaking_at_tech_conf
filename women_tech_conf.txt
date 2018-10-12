@@ -81,11 +81,13 @@ Proportion de participantes = proportion de speakeuses ?
 --
 Très difficile d'obtenir des statistiques...
 SunnyTech 2018 : 14.5% de participantes
+BreizhCamp : 450 t-shirts homme et 63 t-shirts femme
 --
 
 == Et les organisatrices ?
 
 Plus d'organisatrices = plus d'oratrices ?
+
 
 == Les conférences tech sont-elles accueillantes pour les femmes ?
 
