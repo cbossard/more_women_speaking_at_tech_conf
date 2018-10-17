@@ -65,6 +65,10 @@ In 2015, women held 57% of all professional occupations, yet they held only 25% 
 occupations.
 --
 
+=== Constat ...
+
+image:tweets.png[Tweets]
+
 === Quelques statistiques
 
 Nombre de femmes speakeuses au DevFest Nantes depuis 2012
@@ -90,7 +94,7 @@ SunnyTech 2018 : 14.5% de participantes
 BreizhCamp : 450 t-shirts homme et 63 t-shirts femme
 --
 
-== Et les organisatrices ?
+=== Et les organisatrices ?
 
 Plus d'organisatrices = plus d'oratrices ?
 
@@ -99,6 +103,21 @@ Plus d'organisatrices = plus d'oratrices ?
 
 === !
 /* Petite mise en scène */
+
+[NOTE.speaker]
+--
+A - Eh je vais à la SupraConf, et toi ?
+
+B - La quoi ?
+
+A - La SupraConf !
+
+B - Attends, c’est quand ?
+
+A - C’est dans 3 mois.
+
+B - Ah, c’est la conférence que tu m’avais montrée, avec la photos des mecs torse nus, c’est celle là ? Bof, j’ai pas super envie d’y aller, en fait.
+--
 
 === Qu'avons-nous observé ?
 
@@ -121,6 +140,7 @@ Les hommes attirent d'autres hommes (effet club)
 
 === N'y a-t-il que des hommes ?
 Sur les photos
+Sur le programme de l'année précédente
 
 === Cela ne s'adresse qu'aux hommes
 Communication non-inclusive (textes)
@@ -130,12 +150,27 @@ Y aller,
 
 être (presque) la seule femme,
 
-trouver de l'aide
+trouver de l'aide (Code Of Conduct)
 
 == Syndrôme de l'imposteur
 
 === !
 /* Petite mise en scène */
+
+[NOTE.speaker]
+--
+A - Alors tu as proposé ton projet de conférence pour la SupraConf ?
+
+B - Oh bof, mon sujet n’est pas exactement en accord avec leur thème « L’avenir du développement »
+
+A - Attends, tu utilises les dernières technos, c’est justement parfait.
+
+B - Et puis je ne n’ai jamais donné de confs. Que mini-conf à des meetups
+
+A - En + l’orga aimerait avoir plus de femmes !
+
+B - Alors, là, justement, je n’ai pas du tout envie d’être prise parce que je suis LA femme.
+--
 
 === Qu'avons-nous observé ?
 "Je n'ai rien à dire"
@@ -157,45 +192,54 @@ Soyez clairs sur le public attendu (business, managers, devs, ...)
 
 Accepter les talks de niveau débutant ("Introduction à...") ou les retours d'expérience
 
-=== "Tokenism"
+=== Faire-valoir
 Ne parlez pas de vos oratrices en les stigmatisant comme étant des femmes
 
 Sélection des talks anonymisée
 
 [NOTE.speaker]
 --
+Tokenism
 	InspireFest : 63% de femmes https://inspirefest.com/#about et chiffres publiés
 --
 
 === Oser parler en public
+
+Binômage sur scène
+
+Répétitions
+
 Coaching de la part de speakers plus expérimentés
 
 Coaching de la part de professionnels de la prise de parole
 
-Répétitions
-
-Binômage
 
 == Problèmes pratiques et logistiques
 
 === !
 /* Petite mise en scène */
 
+[NOTE.speaker]
+--
+A - Trop contente, je vais à la SupraConf, mon mec a posé 2 jours de congés, tu viens, finalement ?
+
+B - Ben non, c’est semaine prochaine et j’ai pas posé de congés. Mon chef ne va pas vraiment apprécier. En + y a un préavis de grève de cantine, et je n’ai personne pour les faire manger, je devrais les garder le midi. Je peux faire du télétravail mais pas si je suis à une conférence à 300km.
+
+A - Et l’apéro communautaire qui est dans notre ville, tu y vas ? C’est dans 3 semaines !
+
+B - Non mon mec est en période d’audit, il rentrera tous les soirs à 21h, je n’ai pas envie de payer une baby-sitter, juste pour un apéro.
+--
+
 === Qu'avons-nous observé ?
 "Je n'ai personne pour garder mes enfants"
 
 "Je n'ai pas les moyens financiers"
 
-[NOTE.speaker]
---
-[Postes : 27 % des femmes
-sont sur des postes peu qualifiés d’employés ou
-d’ouvriers, contre 15 % des hommes
-Les femmes
-ont des salaires inférieurs, même une fois pris en
-compte l’écart de durée du travail.
-(source: DARES, mai 2015)]
---
+"Je suis obligée de poser des congés"
+
+"Mes chefs ne voient pas l'intérêt de me laisser y aller"
+
+
 
 === Avez-vous des solutions ? Des idées ?
 
@@ -208,10 +252,44 @@ Inviter la famille
 
 Pour les jeunes mères : fournir un endroit calme pour allaiter
 
-=== Problèmes financiers
-Proposer un remboursement des frais
+=== Contraintes financières
+Proposer une avance des frais
 
 Prenez en charge la réservation du trajet et de l'hôtel
+
+Offrir des billets à des communautés
+
+[NOTE.speaker]
+--
+[Postes : 27 % des femmes
+sont sur des postes peu qualifiés d’employés ou
+d’ouvriers, contre 15 % des hommes
+Les femmes
+ont des salaires inférieurs, même une fois pris en
+compte l’écart de durée du travail.
+(source: DARES, mai 2015)]
+--
+
+== Autonomie
+Accréditer la conf par un organisme de formation
+
+Fournir un argumentaire à destination des managers
+
+== Merci !
+image:sparkling-heart_1f496.png[canvas]
+
+
+[NOTE.speaker]
+--
+Merci pour ces échanges
+Replay dispo sur Github
+Mises à jour à venir :)
+--
+
+== Remarquables !
+
+AffectConf // TODO
+
 
 == Quelques liens pour approfondir le sujet
 
