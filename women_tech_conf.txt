@@ -59,6 +59,12 @@ Forum PHP / PHP Tour, Solutions Linux, Blend Web Mix, MiXiT, Paris Web, ...
 
 image:waldo2.jpg[canvas,size=cover]
 
+[NOTE.speaker]
+--
+In 2015, women held 57% of all professional occupations, yet they held only 25% of all computing
+occupations.
+--
+
 === Quelques statistiques
 
 Nombre de femmes speakeuses au DevFest Nantes depuis 2012
@@ -179,6 +185,17 @@ Binômage
 "Je n'ai personne pour garder mes enfants"
 
 "Je n'ai pas les moyens financiers"
+
+[NOTE.speaker]
+--
+[Postes : 27 % des femmes
+sont sur des postes peu qualifiés d’employés ou
+d’ouvriers, contre 15 % des hommes
+Les femmes
+ont des salaires inférieurs, même une fois pris en
+compte l’écart de durée du travail.
+(source: DARES, mai 2015)]
+--
 
 === Avez-vous des solutions ? Des idées ?
 
