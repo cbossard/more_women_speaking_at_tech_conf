@@ -271,7 +271,7 @@ compte l’écart de durée du travail.
 (source: DARES, mai 2015)]
 --
 
-== Autonomie
+=== Autonomie
 Accréditer la conf par un organisme de formation
 
 Fournir un argumentaire à destination des managers
