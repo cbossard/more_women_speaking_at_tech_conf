@@ -102,7 +102,7 @@ Plus d'organisatrices = plus d'oratrices ?
 == Les conférences tech sont-elles accueillantes pour les femmes ?
 
 === !
-/* Petite mise en scène */
+image:wocintech-2women-devfest.jpg[canvas,size=cover]
 
 [NOTE.speaker]
 --
@@ -156,7 +156,7 @@ trouver de l'aide (Code Of Conduct)
 == Syndrôme de l'imposteur
 
 === !
-/* Petite mise en scène */
+image:wocintech-2women-devfest.jpg[canvas,size=cover]
 
 [NOTE.speaker]
 --
@@ -218,7 +218,7 @@ Coaching de la part de professionnels de la prise de parole
 == Problèmes pratiques et logistiques
 
 === !
-/* Petite mise en scène */
+image:wocintech-2women-devfest.jpg[canvas,size=cover]
 
 [NOTE.speaker]
 --
