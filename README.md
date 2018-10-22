@@ -34,7 +34,7 @@ N'hésitez pas à l'amender du résultat de vos discussions !
 
 Cette présentation est rédigée est asciidoc puis compilée en revealjs.
 
-Elle nécessite l'installation de NodeJS pour réaliser la compimation.
+Elle nécessite l'installation de NodeJS pour réaliser la compilation.
 
 Une fois le code récupéré, initialisez les librairies JS en tapant la commande :
 > npm install
