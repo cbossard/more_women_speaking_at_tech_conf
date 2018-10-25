@@ -53,6 +53,13 @@ DevFest Nantes, BreizhCamp, DevoxxFr, Agile Tour Nantes et Rennes, Agile France,
 New Crafts Paris et Bordeaux, Women Techmakers Nantes, JUG Nantes / GDG Nantes / Agile Nantes / Software Crafters Nantes / Human Talks,
 Forum PHP / PHP Tour, Solutions Linux, Blend Web Mix, MiXiT, Paris Web, ...
 
+== Etapes de cette session
+
+. Etat des lieux
+. Les conférences tech sont-elles accueillantes pour les femmes ?
+. Combattre le syndrôme de l'imposteur
+. Problèmes pratiques et logistiques
+
 == Etat des lieux
 
 === Impression générale
