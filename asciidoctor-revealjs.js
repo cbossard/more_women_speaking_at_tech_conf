@@ -5,4 +5,4 @@ require('asciidoctor-reveal.js');
 // Convert the document 'presentation.adoc' using the reveal.js converter
 var attributes = {'revealjsdir': 'node_modules/reveal.js@'};
 var options = {safe: 'safe', backend: 'revealjs', attributes: attributes};
-asciidoctor.convertFile('women_tech_conf.txt', options);
+asciidoctor.convertFile('index.txt', options);
