@@ -9,15 +9,23 @@
 :imagesdir: images
 :notitle:
 
-== Où sont les femmes ?
+== !
 
-image::devfest.jpg[canvas,size=cover]
+image::background_title.jpg[canvas,size=cover]
+
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
 
 Cécilia Bossard - @ceciliaBossard
 
 Sarah Haïm-Lubczanski - @sarahhaim
-
-image:duchessfr.png[DuchessFrance,100]
 
 == Cadre de cette session
 === Table ronde
@@ -75,6 +83,10 @@ occupations.
 === Constat ...
 
 image:tweets.png[Tweets]
+
+=== Constat ...
+
+image:tweetBis.png[Tweets, 420]
 
 === Quelques statistiques
 
@@ -338,11 +350,15 @@ Les communautés techniques :
 
 https://www.duchess-france.org/[Duchess France]
 
+== !
+Des ressources sur la diversité
+
+https://www.youtube.com/watch?v=znX4pFJdiYg[The Hitchhiker's Guide to Diversity - Audrey Neveu]
+
 == Pourquoi y a-t-il tant d'hommes ?
-image::devfest.jpg[canvas,size=cover]
+
+image::duchessfr.png[DuchessFrance,200]
 
 Cécilia Bossard - @ceciliaBossard
 
 Sarah Haïm-Lubczanski - @sarahhaim
-
-image:duchessfr.png[DuchessFrance,100]

@@ -14,17 +14,16 @@ body {
 
 }
 
-html,#container{
+/* html,#container{
     background-image: "./images/devfest_simple.jpg"
-}
+} */
 
 .reveal {
-  font-family: "Confortaa", Helvetica, sans-serif;
-  font-size: 42px;
+  font-family: "Autour One", Helvetica, sans-serif;
+  font-size: 38px;
   font-weight: normal;
-  color:#f2edc5;
-  background-image: url("images/devfest_simple.jpg");
-  background-size: cover;
+  color: #040203;
+  background-image: url("images/background_duchess.jpg");
 
  }
 
@@ -54,8 +53,8 @@ html,#container{
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #3A65C0;
-  font-family: "Comfortaa", Helvetica, sans-serif;
+  color: #8f0708;
+  font-family: "Zantroke", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
@@ -67,12 +66,13 @@ html,#container{
 
 .reveal h1 {
   font-size: 2.0em;
-  color: #233D74}
+  color: #9bd22e}
 
 .reveal h2 {
-  font-size: 1.6em;
+  font-size: 1.4em;
   font-weight: bold;
-  color: #233D74}
+  color: #8f0708;
+}
 
 .reveal h3 {
   font-size: 1.3em;
